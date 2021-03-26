@@ -8,13 +8,14 @@
 		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.tapiceria</groupId>
+	<artifactId>Tapiceria</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Tapiceria</name>
 	<description>Tapiceria Project</description>
 	<properties>
 		<java.version>11</java.version>
+		<jdkVersion>1.8</jdkVersion>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -128,5 +129,6 @@
 			</plugin>
 		</plugins>
 	</build>
+
 
 </project>
