@@ -16,7 +16,7 @@ public class UserLoginDto {
 
     private String name;
 
-    private String lastname;
+    private String lastName;
 
     private String username;
 
